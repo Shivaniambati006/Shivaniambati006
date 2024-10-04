@@ -3,7 +3,7 @@
 </h1>
 
 </h1>
-<h3 align="center">"Learning new ways to shape a smarter future"</h3>
+<h3 align="center">"Exploring new paths to become a smarter version of myself"</h3>
 
 - 📫 Reach me **ambatishivani6@gmail.com**
 
