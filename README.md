@@ -26,6 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivaniambati006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## ⚓ LeetCode Stats
+![](https://leetcard.jacoblin.cool/ambatishivani6?cache=0)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
