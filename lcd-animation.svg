@@ -23,7 +23,7 @@
   </style>
 
   <!-- Background Image -->
-  <image href="D:\GITHUB\black-large-square.svg" x="0" y="0" width="500" height="100"/>
+  <image href="https://github.com/Shivaniambati006/Shivaniambati006/blob/main/black-large-square.svg" x="0" y="0" width="500" height="100"/>
 
   <!-- Text -->
   <text x="20" y="60" class="lcd line1">Hello, I’m Shivani Ambati</text>
