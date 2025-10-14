@@ -22,6 +22,10 @@
     .line4 { animation-delay: 6s; }
   </style>
 
+  <!-- Background Image -->
+  <image href="D:\GITHUB\black-large-square.svg" x="0" y="0" width="500" height="100"/>
+
+  <!-- Text -->
   <text x="20" y="60" class="lcd line1">Hello, I’m Shivani Ambati</text>
   <text x="20" y="60" class="lcd line2">Aspiring Embedded Software Engineer</text>
   <text x="20" y="60" class="lcd line3">Hardware-Software Innovator</text>
