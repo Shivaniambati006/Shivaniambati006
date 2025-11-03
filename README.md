@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-<a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=300&size=30&pause=1000&color=2CF740&center=true&vCenter=true&width=700&lines=Welcome%2C+Techies;Embedded+systems+%E2%80%94+my+favorite+space" alt="Typing SVG" />
+<a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=300&size=30&pause=1000&color=2CF740&center=true&vCenter=true&width=700&lines=Hi%2C+Techies;Welcome+%E2%80%94+to+my+space+😌" alt="Typing SVG" />
 </a>
      </kbd>
 </p>
