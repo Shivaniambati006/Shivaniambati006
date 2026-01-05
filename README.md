@@ -11,7 +11,7 @@
 
 ```js
 const Shivani = {
-    education: "B.Tech in Electronics & Communication",
+    education: "B.Tech in Information & Communication Technology",
     passion: "Embedded Systems & IoT Development",
     skilledIn: ["C", "C++", "Microcontrollers (AVR, ARM, ESP)"],
     exploring: ["RTOS", "Embedded Linux", "Bare-Metal Programming"],
