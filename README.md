@@ -16,6 +16,6 @@ const Shivani = {
     skilledIn: ["C", "C++", "Microcontrollers (AVR, ARM, ESP)"],
     exploring: ["RTOS", "Edge Computing", "AI at the Edge"],
     love: "Bridging Hardware & Software",
-    motto: "Always learning, building, and innovating at the intersection of hardware and software"
+    motto: "Always learning, building, and innovating."
 };
 ```
