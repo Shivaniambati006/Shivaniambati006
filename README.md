@@ -12,7 +12,7 @@
 ```js
 const Shivani = {
     education: "B.Tech in Information & Communication Technology",
-    passion: "Embedded Systems, IoT, and Edge Computing Development",
+    passion: "Embedded Systems, IoT, and Edge Computing ",
     skilledIn: ["C", "C++", "Microcontrollers (AVR, ARM, ESP)"],
     exploring: ["RTOS", "Edge Computing", "AI at the Edge"],
     love: "Bridging Hardware & Software",
