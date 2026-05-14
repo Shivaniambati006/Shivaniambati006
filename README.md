@@ -4,7 +4,6 @@
 </a>
      </kbd>
 </p>
-<br><br>
 
 ```js
 const Shivani = {
