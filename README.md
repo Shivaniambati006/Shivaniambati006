@@ -5,6 +5,14 @@
      </kbd>
 </p>
 
+<p align="right">
+  <img
+    src="https://media.tenor.com/6vA2L6x1uX8AAAAd/esp32devkit-esp32.gif"
+    alt="ESP32 DevKit"
+    width="300"
+  />
+</p>
+
 ```js
 const Shivani = {
     education: "B.Tech in Information & Communication Technology",
