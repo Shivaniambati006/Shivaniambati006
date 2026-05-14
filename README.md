@@ -5,9 +5,6 @@
      </kbd>
 </p>
 <br><br>
-<p align="right">
-  <img align="right" src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gi" alt="Yo Luffy" />
-</p> 
 
 ```js
 const Shivani = {
