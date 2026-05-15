@@ -18,7 +18,6 @@ const Shivani = {
 <p align="center">
   <i>"At the edge, every millisecond and every milliwatt matters."</i>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" />
 </p>
